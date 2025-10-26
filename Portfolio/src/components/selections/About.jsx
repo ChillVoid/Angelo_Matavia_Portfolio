@@ -22,7 +22,11 @@ export const About = () => {
             I’m a strategic gamer and curious developer,
             I like exploring creative ways to build and design.
             My goal is to combine logic and ideas 
-            through code — crafting projects that reflect who I am.        
+            through code — crafting projects that reflect who I am. 
+            <br></br><br></br>
+            I grow up in a poor family and this collage life 
+            will be the path of me to become
+            a successful person some day.       
             <span className="md:italic tracking-tighter block mt-4">
               “If you’re going to change the world, don’t ask for permission.”
             </span>
