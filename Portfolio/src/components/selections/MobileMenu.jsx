@@ -3,11 +3,7 @@ import { useEffect } from "react";
 export const MobileMenu = ({menuOpen, setMenuOpen}) => {
 
     return(
-<<<<<<< HEAD
         <div className={`fixed top-0 left-0 w-full bg-[rgba(10,10,10,0.8)] z-40 
-=======
-        <div className={`fixed top-0 left-0 w-full bg-black z-40 
->>>>>>> daae04aaffe6cdb70074ce9caccece63ab7cb14b
         flex flex-col items-center justify-center transition-all duration-300 ease-in-out
         ${menuOpen 
             ? "h-screen opacity-100 pointer-events-auto"
